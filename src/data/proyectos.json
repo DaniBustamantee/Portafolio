@@ -1,0 +1,11 @@
+[
+  {
+  "id": 1,
+  "nombre": "Sistema de Gestión y Logística con Geolocalización",
+  "descripcion": "App web para gestión de pedidos, producción y envíos. Permite a clientes realizar pedidos, operarios registrar lotes de producción con descuento automático de insumos, transportistas visualiza rutas en mapa, y al administrador controlar todo el flujo: productos, insumos, stock, clientes y envíos.",
+  "imagen": "https://via.placeholder.com/400x250",
+  "tecnologias": ["React", "Node.js", "SQL Server"],
+  "link": ""
+}
+ 
+]
